@@ -8,7 +8,7 @@
 
 ## Deployed Version
 
-Live demo: 
+Live demo: https://natours-jksu.onrender.com
 
 ## Key Features
 
